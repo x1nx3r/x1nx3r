@@ -1,7 +1,7 @@
 <p align="center">
     <img height=400 src="https://media1.tenor.com/m/BntqMIZRFZ8AAAAC/bocchi-bocchi-the-rock.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Mega Nugraha</h1>
+<h1 align="center">henwooo 👋, i'm Mega Nugraha</h1>
 <h3 align="center">an aspiwing computa wizard fwom indonesia /(^•ω•^)
 </h3>
 
