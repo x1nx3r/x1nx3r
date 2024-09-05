@@ -2,7 +2,7 @@
     <img height=400 src="https://media1.tenor.com/m/BntqMIZRFZ8AAAAC/bocchi-bocchi-the-rock.gif">
 </p>
 <h1 align="center">henwooo 👋, i'm Mega Nugraha</h1>
-<h3 align="center">an aspiwing computa wizard fwom indonesia /(^•ω•^)
+<h3 align="center">an aspiwing computa wizard from indonesia /(^•ω•^)
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x1nx3r&label=Profile%20views&color=0e75b6&style=flat" alt="x1nx3r" /> </p>
@@ -18,7 +18,6 @@
 - 📫 u can reach me at xD **monmega110@gmail.com**
 
 - ⚡ fun fact **im f-fweakin cowlorblind ^-^'**
-
 
 <p align="left">
 </p>
