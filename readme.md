@@ -5,7 +5,6 @@
 <h3 align="center">an aspiwing computa wizard from indonesia /(^•ω•^)
 </h3>
 
-<img width=300 align="right" src="https://media.tenor.com/c-PydHQ3gcIAAAAi/vampire-anime.gif">
 
 - 🌱 i’m curwently learning o.o **Neovim**
 
