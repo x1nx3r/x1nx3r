@@ -5,8 +5,6 @@
 <h3 align="center">an aspiwing computa wizard from indonesia /(^•ω•^)
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x1nx3r&label=Profile%20views&color=0e75b6&style=flat" alt="x1nx3r" /> </p>
-
 <img width=300 align="right" src="https://media.tenor.com/c-PydHQ3gcIAAAAi/vampire-anime.gif">
 
 - 🌱 i’m curwently learning o.o **Neovim**
