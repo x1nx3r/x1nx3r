@@ -8,13 +8,10 @@
 
 - 🌱 i’m curwently learning o.o **Neovim**
 
-- 📝 i reguwlarly wwite articles o-on (づ￣ ³￣)づ [x1nx3r.github.io](x1nx3r.github.io)
-
 - 💬 u c-can ask me about -.-' **Hardware, Linux, Cloud, and LLM's**
 
 - 📫 u can reach me at xD **monmega110@gmail.com**
 
-- ⚡ fun fact **im f-fweakin cowlorblind ^-^'**
 
 <p align="left">
 </p>
