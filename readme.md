@@ -6,7 +6,7 @@
 </h3>
 
 
-- 🌱 i’m curwently learning o.o **Neovim**
+- 🌱 i’m curwently learning o.o **Laravel**
 
 - 💬 u c-can ask me about -.-' **Hardware, Linux, Cloud, and LLM's**
 
