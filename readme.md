@@ -1,6 +1,4 @@
-<p align="center">
-    <img height=400 src="https://media1.tenor.com/m/BntqMIZRFZ8AAAAC/bocchi-bocchi-the-rock.gif">
-</p>
+
 
 ###
 
@@ -17,11 +15,15 @@
 
 <h1 align="center">henwooo 👋, i'm Mega Nugraha 👋</h1>
 
-###
+<img align="right" height="350" src="assets/thumb.jpg">
+
+
 
 <h3 align="left">👩‍💻  An aspiwing computa wizzawd that mowe often than nyot bits mowe than he can chew~ >w</h3>
 
+
 ###
+
 
 
 - 🌱 i’m curwently learning o.o **Laravel**
@@ -32,6 +34,7 @@
 
 
 ###
+
 
 <h3 align="left">💻 Whewe i code~: </h3>
 
@@ -78,3 +81,5 @@
 
 ###
 
+<p align="right"><p>Shoutout to Mykoll <a href="https://www.youtube.com/@Mykoll-"> @Youtube</p>
+<a> for sharing his gwen pictures </p></p>
