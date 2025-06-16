@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
 </div>
 
 <h3 align="left">Tools that I use to create problems I then solve with more tools:</h3>
@@ -54,6 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
 </div>
 
 <h3 align="left">Languages I copy-paste from Stack Overflow with minor modifications:</h3>
@@ -65,12 +71,41 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo" />
 </div>
+
+---
+
+<h3 align="left">Things I've built (and somehow work):</h3>
+
+**🗂️ [R2 Object Thrower](https://github.com/x1nx3r/r2-object-thrower)**  
+File uploader with real-time usage tracking that prevents you from bankrupting yourself on cloud storage. Uses Cloudflare's GraphQL Analytics API because apparently everything needs to be complicated now.
+
+**🪄 [Silly-Widgy](https://github.com/x1nx3r/silly-widgy)**  
+An Electron task widget that uses 200MB of RAM to display 50 characters of text. Features smooth animations that took longer to implement than the actual functionality.
+
+**📦 [Laravel Docker Nginx Boilerplate](https://github.com/x1nx3r/laravel-docker-nginx-boilerplate)**  
+Docker setup for Laravel because running PHP directly on servers is apparently too simple. Three containers to serve one web application - the modern way.
+
+**🔄 [Wait-A-Moment React App](https://github.com/x1nx3r/wait-a-moment)**  
+Loading page for when your serverless Laravel app is taking a nap. Pings sleeping applications until they remember how to respond to HTTP requests.
+
+**🎨 [GRUB2 Theme Installer (Fedora Edition)](https://github.com/x1nx3r/grub2-theme-installer-fedora)**  
+Installs GRUB themes because staring at the default bootloader is too depressing. Fixed for Fedora because everything has to be different.
 
 ---
 
