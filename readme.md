@@ -109,6 +109,27 @@ Installs GRUB themes because staring at the default bootloader is too depressing
 
 ---
 
+<h3 align="center">Evidence of my nocturnal coding habits:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x1nx3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x1nx3r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=x1nx3r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x1nx3r&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity graph"  />
+</div>
+
+<p align="center">
+  <i>Most commits happen between 11 PM and 3 AM because apparently that's when my brain decides to function.</i>
+</p>
+
+---
+
 <p align="center">
   Professional procrastinator who builds task management apps instead of managing tasks.<br>
   Runs LLMs locally because trusting the cloud is for people who don't read privacy policies.<br>
