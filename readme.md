@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://linkedin.com/in/muhammad-mega-nugraha-5a6193253">
+  <a href="https://www.linkedin.com/in/muhammad-mega-nugraha-5a6193253">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/x1nx3r">
@@ -33,7 +33,7 @@
   - Why **Max Verstappen** is objectively right.
   - Docker containers that somehow use more RAM than the applications they contain.
 
-- Reach me at **monmega110@gmail.com** if you need someone to overcomplicate your simple problems.
+- Reach me at <a href="mailto:monmega110@gmail.com">monmega110@gmail.com</a> if you need someone to overcomplicate your simple problems.
 
 ---
 
@@ -90,8 +90,8 @@
 <h3 align="center">Evidence of my nocturnal coding habits:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x1nx3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x1nx3r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=x1nx3r&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1nx3r&layout=compact&theme=dracula" height="180" alt="top languages" />
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x1nx3r&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x1nx3r&radius=16&theme=radical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity graph"  />
 </div>
 
 <p align="center">
@@ -115,5 +115,5 @@
 </p>
 
 <p align="right">
-  Shoutout to <a href="https://www.youtube.com/@Mykoll-">Mykoll</a> for the Gwen pics. Carrying my README's visual appeal harder than my laptop carries these Electron apps.
+  Shoutout to <a href="https://www.youtube.com/@Mykoll">Mykoll</a> for the Gwen pics. Carrying my README's visual appeal harder than my laptop carries these Electron apps.
 </p>
