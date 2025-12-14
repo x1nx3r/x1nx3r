@@ -11,7 +11,9 @@
 
 <h1 align="center">oh hi. i'm Mega Nugraha</h1>
 
-<img align="right" height="350" src="assets/thumb.jpg" />
+<div align="center">
+  <img height="350" src="assets/thumb.jpg" />
+</div>
 
 <h3 align="left">
   Computer Science Undergraduate bridging the gap between "it works in the notebook" and "it actually runs in production."
