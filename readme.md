@@ -13,18 +13,25 @@
 
 <img align="right" height="350" src="assets/thumb.jpg" />
 
-<h3 align="left">Allegedly a developer. Realistically just someone who's too stubborn to quit and too caffeinated to think clearly.</h3>
+<h3 align="left">
+  Computer Science Undergraduate bridging the gap between "it works in the notebook" and "it actually runs in production."
+</h3>
 
 ---
 
-- Currently pretending to understand **LLM distillation**, because apparently running 7GB models on my laptop to generate grocery lists is peak productivity.
+- 🎓 **Current Obsession (Thesis):** trying to squeeze **DeepSeek-R1's** reasoning capabilities into a tiny **Llama 3.2 3B** model.
+  - *Translation:* I spend my days navigating the hellscape of **Full-Weight Fine-Tuning** and **LoRA** to make small models think they are smart (Chain-of-Thought Distillation).
 
-- Ask me about:  
-  - PC hardware (yes, I will judge your cable management)  
-  - Linux (Fedora good, Arch overrated, NixOS for masochists)  
-  - Cloud providers that bill you for looking at their dashboard wrong  
-  - Why I keep downloading language models I'll never actually use  
-  - Docker containers that somehow use more RAM than the applications they contain
+- 🛠️ **The Philosophy:** Unlike researchers who refuse to leave Jupyter Notebooks, I actually deploy things.
+  - I bring a backend foundation (FastAPI, Docker, GCP) to AI research because model weights are useless if you can't serve them without crashing the server.
+
+- 🤖 **Also exploring:** **RAG** pipelines in production stacks, because hallucinations are only funny when *I* do them, not when my models do them.
+
+- **Ask me about:**
+  - Why the **2017 MacBook Pro (non-T2)** is the peak of human engineering for Linux.
+  - How to build a PC for 7 million rupiah that prioritizes CPU cores over sanity.
+  - Why **Max Verstappen** is objectively right.
+  - Docker containers that somehow use more RAM than the applications they contain.
 
 - Reach me at **monmega110@gmail.com** if you need someone to overcomplicate your simple problems.
 
@@ -37,9 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div>
 
 <h3 align="left">Tools that I use to create problems I then solve with more tools:</h3>
@@ -55,57 +62,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
+  <img src="https://global.discourse-cdn.com/standard17/uploads/ollama/original/1X/3c8469d727a26c48398e040c5e3153e77c8e920d.png" height="40" alt="ollama logo" />
 </div>
 
-<h3 align="left">Languages I copy-paste from Stack Overflow with minor modifications:</h3>
+<h3 align="left">Languages & Frameworks (My "Stack"):</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo" />
 </div>
-
----
-
-<h3 align="left">Things I've built (and somehow work):</h3>
-
-**🗂️ [R2 Object Thrower](https://github.com/x1nx3r/r2-object-thrower)**  
-File uploader with real-time usage tracking that prevents you from bankrupting yourself on cloud storage. Uses Cloudflare's GraphQL Analytics API because apparently everything needs to be complicated now.
-
-**🪄 [Silly-Widgy](https://github.com/x1nx3r/silly-widgy)**  
-An Electron task widget that uses 200MB of RAM to display 50 characters of text. Features smooth animations that took longer to implement than the actual functionality.
-
-**📦 [Laravel Docker Nginx Boilerplate](https://github.com/x1nx3r/laravel-docker-nginx-boilerplate)**  
-Docker setup for Laravel because running PHP directly on servers is apparently too simple. Three containers to serve one web application - the modern way.
-
-**🔄 [Wait-A-Moment React App](https://github.com/x1nx3r/wait-a-moment)**  
-Loading page for when your serverless Laravel app is taking a nap. Pings sleeping applications until they remember how to respond to HTTP requests.
-
-**🎨 [GRUB2 Theme Installer (Fedora Edition)](https://github.com/x1nx3r/grub2-theme-installer-fedora)**  
-Installs GRUB themes because staring at the default bootloader is too depressing. Fixed for Fedora because everything has to be different.
 
 ---
 
