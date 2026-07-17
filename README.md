@@ -37,6 +37,7 @@
 <hr width="90%" color="#ff0000" size="1">
 <br>
 <font color="#00ff00" size="2" face="Courier New">
+<a href="https://www.x1nx3r.dev"><font color="#00ff00">[Blog]</font></a><br>
 <a href="https://www.linkedin.com/in/muhammad-mega-nugraha-5a6193253"><font color="#00ff00">[LinkedIn]</font></a><br>
 <a href="https://www.instagram.com/x1nx3r"><font color="#00ff00">[Instagram]</font></a><br>
 <a href="mailto:monmega110@gmail.com"><font color="#00ff00">[Email]</font></a><br>
@@ -93,47 +94,113 @@ philosophy:      zero trust, zero budget
 <br>
 
 <hr color="#00ff00" size="1">
-<font color="#ff6600" size="2" face="Courier New"><b>// about</b></font>
+<font color="#ff6600" size="2" face="Courier New"><b>// projects</b></font>
 <hr color="#00ff00" size="1">
 
 <br>
 
 <font color="#cccccc" size="2" face="Courier New">
-I'm a CS undergraduate with a thesis that's slowly consuming my waking hours.<br><br>
+<a href="https://www.x1nx3r.dev/post/how-my-model-got-60-percent-on-bbh-and-why-it-was-0.09-percent-initially"><font color="#00ff00"><b>[Distilling reasoning into a 3B model]</b></font></a><br>
+Fine-tuned Llama 3.2 3B on DeepSeek-R1 reasoning traces to make it<br>
+think step-by-step. Regex parsers gave it 0.09%. LLM-as-a-Judge said 60%.<br>
+The gap between those numbers is where my thesis advisor lives.<br>
+<font size="1" color="#666666"><a href="https://www.x1nx3r.dev/post/structured-reasoning-on-a-diet-my-experiment-with-llama-32-3b"><font color="#888888">+ Structured Reasoning on a Diet (earlier experiment)</font></a></font>
 
-I'm working on knowledge distillation -- trying to squeeze DeepSeek-R1's<br>
-reasoning into a Llama 3.2 3B model. My days are spent writing LLM-as-a-Judge<br>
-evaluators while regex parsers insist my results are 0.09%. The gap between<br>
-those numbers is where my sleep schedule goes.<br><br>
+<br><br>
 
-I once built a decoupled Next.js/Firebase architecture with Cloudflare R2 CDNs<br>
-for a village portal. They asked for a WordPress site. I delivered a distributed<br>
-system instead.<br><br>
+<a href="https://www.x1nx3r.dev/post/the-poor-mans-web-architecture-my-adventure-with-a-penniless-client"><font color="#00ff00"><b>[The village portal that cost $0/month]</b></font></a><br>
+Built a production web portal for Kelurahan Kemayoran on a budget of<br>
+Rp 0/month. Next.js on Vercel + Firebase + Cloudflare R2 + Zero-Trust auth.<br>
+They asked for WordPress. They got a distributed system.<br>
 
-I also built a serverless S3 browser with Monaco Editor because I didn't want<br>
-to teach someone how to use our Coolify dashboard. Laziness is a great<br>
-motivator for overengineering.<br><br>
+<br><br>
 
-Other things I've done:<br>
-- Strapped a Rust keylogger (evdev) to Tauri and Hyprland because I saw a<br>
-&nbsp;&nbsp;macOS widget once and refuse to touch GTK.<br>
-- Run Microsoft Word natively on Arch through WinApps and libvirt KVM, purely<br>
-&nbsp;&nbsp;out of spite for Windows 10's end-of-life.<br>
-- Wired up Wetty through Docker, Cloudflare Access, and Google OAuth so I can<br>
-&nbsp;&nbsp;SSH from a browser without managing key pairs.<br>
+<a href="https://www.x1nx3r.dev/post/the-human-backup-bot-a-story-of-tiredness-and-trust-issues"><font color="#00ff00"><b>[The S3 browser I built instead of teaching someone Coolify]</b></font></a><br>
+Serverless S3 browser with Monaco Editor. Streams .dmp files from<br>
+DigitalOcean Spaces through Cloudflare Access. Zero custom auth code.<br>
+Built because I got tired of fetching database backups for other people.<br>
+
+<br><br>
+
+<a href="https://www.x1nx3r.dev/post/potato-server-cicd"><font color="#00ff00"><b>[CI/CD pipeline on a 2GB potato server]</b></font></a><br>
+Zero-downtime deployments on a $5/month VPS. Cloudflare security envelope,<br>
+Git-based atomic symlink deploys via Makefile, Systemd cgroups,<br>
+and a non-destructive R2 backup pipeline. Total monthly cost: $5.<br>
+
+<br><br>
+
+<a href="https://www.x1nx3r.dev/post/securing-ssh-with-google-cloudflare-and-no-regrets-mostly"><font color="#00ff00"><b>[SSH from your browser, because managing keypairs is for 2022]</font></b></a><br>
+Wetty in Docker behind Cloudflare Tunnel + Cloudflare Access + Google OAuth.<br>
+Rejected Apache Guacamole because it leaked 11GB of memory.<br>
+Now I SSH from Chrome. I do not feel bad about this.<br>
+
 </font>
 
 <br>
 
 <hr color="#00ff00" size="1">
-<font color="#ff6600" size="2" face="Courier New"><b>// things I've broken</b></font>
+<font color="#ff6600" size="2" face="Courier New"><b>// side quests</b></font>
 <hr color="#00ff00" size="1">
 
 <br>
 
 <font color="#cccccc" size="2" face="Courier New">
-Arch Linux, Fedora, Linux (generally), macOS, Google Cloud<br>
-<font size="1" color="#666666">I use Arch btw. You were going to ask.</font>
+<a href="https://www.x1nx3r.dev/post/aesthetic-procrastination-duct-taping-webkit-to-hyprland-because-i-hate-gtk"><font color="#00ff00"><b>[macOS-style widgets on Hyprland, held together with spite]</b></font></a><br>
+Built floating desktop widgets using Tauri + hyprctl + a Rust evdev<br>
+keylogger because I saw a macOS widget once and I will not touch GTK.<br>
+Looks great. Saves zero minutes of actual work.<br>
+
+<br><br>
+
+<a href="https://www.x1nx3r.dev/post/on-celebrating-the-windows-10-eol-integrating-windows-apps-on-linux"><font color="#00ff00"><b>[Microsoft Word on Arch, out of spite]</b></font></a><br>
+Evaluated Wine, Winboat, Winapps. Chose Winapps + libvirt KVM.<br>
+Microsoft Word in my GNOME app grid. Windows 10 is dead. Long live Linux.<br>
+
+<br><br>
+
+<a href="https://www.x1nx3r.dev/post/mtl-no-longer-sucks-lazypub"><font color="#00ff00"><b>[Lazypub: a Tauri app that translates light novels badly]</b></font></a><br>
+Desktop app that parses EPUBs, converts vertical-rl to horizontal via AI<br>
+prompt engineering, and uses a hacky glossary system to keep character<br>
+names consistent. Weeb-adjacent. Surprisingly functional.<br>
+
+<br><br>
+
+<a href="https://www.x1nx3r.dev/post/the-99-performance-score-why-i-traded-nextjs-for-a-gotth-press"><font color="#00ff00"><b>[Rebuilt my blog in Go because React hydration tax]</b></font></a><br>
+Switched from Next.js to Go + Templ + Tailwind + HTMX. 99 Performance,<br>
+0.6s LCP, 14MB self-contained binary with all assets embedded.<br>
+This very blog you're reading about is the result of this spite.<br>
+
+</font>
+
+<br>
+
+<hr color="#00ff00" size="1">
+<font color="#ff6600" size="2" face="Courier New"><b>// philosophy</b></font>
+<hr color="#00ff00" size="1">
+
+<br>
+
+<font color="#cccccc" size="2" face="Courier New">
+I write about the uncomfortable parts of this industry.<br><br>
+
+<a href="https://www.x1nx3r.dev/post/cognitive-debt-if-the-silicon-thinks-for-you-then-what-are-you"><font color="#00ff00"><b>[Cognitive Debt]</b></font></a> -- When AI generates all your code,<br>
+nobody understands the codebase. The greybeard gets paged at 3 AM.<br>
+Frictionless generation creates debt that compounds with interest.<br>
+
+<br>
+
+<a href="https://www.x1nx3r.dev/post/one-must-imagine-sisyphus-at-the-slot-machine"><font color="#00ff00"><b>[One Must Imagine Sisyphus at the Slot Machine]</b></font></a> -- I used<br>
+to be Sisyphus pushing the boulder. Now I pull the lever and wait<br>
+for the LLM to generate my next line of code. A ghost of my former<br>
+competent self keeps a ledger of every shortcut I take.<br>
+
+<br>
+
+<a href="https://www.x1nx3r.dev/post/llms-and-how-it-made-the-dumb-me-felt-like-a-genius"><font color="#00ff00"><b>[How LLMs Made the Dumb Me Feel Like a Genius]</b></font></a> -- Over-relied<br>
+on ChatGPT as a freshman. Never learned linked lists. Got exposed in<br>
+6th semester designing a Firestore schema. Shortcuts create fragmented<br>
+knowledge. Real learning requires struggle. I learned this the hard way.<br>
+
 </font>
 
 <br>
@@ -216,6 +283,7 @@ times said "i'll fix this later":        infinite
 <br>
 <font color="#cccccc" size="2" face="Courier New">
 <a href="mailto:monmega110@gmail.com"><font color="#00ff00">monmega110@gmail.com</font></a><br>
+Blog: <a href="https://www.x1nx3r.dev"><font color="#00ff00">x1nx3r.dev</font></a><br>
 Response time depends on how much I like your project.
 </font>
 
